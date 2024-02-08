@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chrizzzii
 - 👀 I’m interested in Cybersecurity and Software Development
-- 🌱 I’m currently learning Cybersecurity and Web Language Path
-- 💞️ I’m looking to collaborate on, i don't know?
+- 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me? follow my IG account instagram.com/chrizzzii_
 
 <!---
